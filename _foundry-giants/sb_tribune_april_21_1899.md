@@ -1,0 +1,19 @@
+---
+pid: SB_Tribune_April_21_1899
+file_name: SB_Tribune_April_21_1899.jpg
+label: South Bend Tribune
+location: South Bend, Indiana, US
+_date: 21/04/1899
+month_str: April
+year: '1899'
+type: JPG
+notes: Discusses game played between ND collegiate team and South Bend local team,
+  includes photo of Terre Haute team
+teams: Notre Dame, South Bend
+game_info: y
+player_info: y
+inventoried: y
+order: '104'
+layout: foundry-item
+collection: foundry-giants
+---
